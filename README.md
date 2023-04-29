@@ -1,4 +1,4 @@
-# venom — Created with by ♥ Anton Ratnov
+# venom — Created with ♥ by Anton Ratnov
 
 В проекте используются: 
 - HTML 
